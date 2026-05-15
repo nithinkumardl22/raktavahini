@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rakta-Vahini</string>
+    <string name="app_name_kn">ರಕ್ತ-ವಾಹಿನಿ</string>
+    <string name="tagline">Filtered Blood Donor Network</string>
+    <string name="emergency_search">Emergency Blood Search</string>
+    <string name="register_donor">Register as Donor</string>
+    <string name="eligible">Eligible to Donate</string>
+    <string name="not_eligible">Not Eligible</string>
+    <string name="log_donation">Log Donation</string>
+    <string name="thank_you_title">Thank You for Donating!</string>
+    <string name="thank_you_body">Your blood donation has been recorded. You are a lifesaver!</string>
+    <string name="days_rule">Donors who donated within the last 90 days are automatically hidden from search results.</string>
+</resources>
